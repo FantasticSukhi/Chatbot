@@ -1,7 +1,7 @@
 {
-    "name": "CHATBOT",    
-    "env": {
-        "BOT_TOKEN": {
+      "name": "CHATBOT",    
+      "env": {
+      "BOT_TOKEN": {
             "description": "telegram bot token here",
             "required": true
         },        
